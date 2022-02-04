@@ -32,7 +32,7 @@ int main()
    printf("element not found");
    else
    printf("element found at %d position",loc);
-    printf("\npriyal jain ,cse-3,04376802720");
+   
    return 0;
 
    
